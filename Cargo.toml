@@ -1,0 +1,13 @@
+[package]
+name = "heapo"
+version = "0.1.0"
+edition = "2024"
+description = "Very simple heap implementations in Rust"
+license = "MIT OR Apache-2.0"
+homepage = "https://github.com/mirrajabi/heapo"
+repository = "https://github.com/mirrajabi/heapo"
+readme = "README.md"
+keywords = ["heap", "pairing-heap"]
+
+[dev-dependencies]
+rand = "0.9.2"
