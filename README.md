@@ -1,5 +1,9 @@
 # Heapo - Heap implementations in Rust
 
+[![Build Status](https://github.com/mirrajabi/heapo/actions/workflows/test.yaml/badge.svg)](https://github.com/mirrajabi/heapo/actions)
+[![Crates.io](https://img.shields.io/crates/v/heapo.svg)](https://crates.io/crates/heapo)
+[![Documentation](https://docs.rs/heapo/badge.svg)](https://docs.rs/heapo)
+
 Currently contains:
 
 - [PairingHeap](./src/pairing_heap/mod.rs)
